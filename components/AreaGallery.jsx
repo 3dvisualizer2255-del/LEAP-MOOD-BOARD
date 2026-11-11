@@ -17,7 +17,7 @@ export default function AreaGallery({ areas }) {
   ), [areas, category, query]);
 
   return <section className="areas-section" id="areas">
-    <div className="section-heading"><div><p className="eyebrow">THE SPATIAL COLLECTION</p><h2>Find your <em>space.</em></h2></div><p>Choose an area. See the reference.<br />Step inside its material mood board.</p></div>
+    <div className="section-heading"><div><p className="eyebrow">THE SPATIAL COLLECTION</p><h2>Find your <em>space.</em></h2></div><p>Choose an area.<br />See the reference, mood and materials together.</p></div>
     <div className="collection-controls">
       <div className="filters" role="group" aria-label="Filter areas">{categories.map(([id, label]) => <button key={id} className={'filter ' + (id === category ? 'active' : '')} aria-pressed={id === category} onClick={() => setCategory(id)}>{label}<span>{areas.filter(area => matches(area, id)).length}</span></button>)}</div>
       <label className="search-box"><span aria-hidden="true">⌕</span><input type="search" placeholder="Find an area or stand…" aria-label="Find an area or stand" value={query} onChange={event => setQuery(event.target.value)} /></label>

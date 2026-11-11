@@ -3,9 +3,8 @@
 import { useEffect, useRef, useState } from 'react';
 import data from '../data/moodbook.json';
 import { Header, Cover, CompanyProfile, EventDetails, ReferenceDisclosure, Concept, Direction, Closing, Footer } from './ProposalSections';
-import AreaGallery, { areaURL } from './AreaGallery';
+import AreaGallery from './AreaGallery';
 import AreaReference from './AreaReference';
-import MoodDialog from './MoodDialog';
 import DownloadDialog from './DownloadDialog';
 
 const homeTitle = 'LEAP 2027 — Proposal by FAIRPLATZ';
@@ -19,7 +18,6 @@ function readRoute() {
 
 export default function Moodbook() {
   const [route, setRoute] = useState(defaultRoute);
-  const [initialTab, setInitialTab] = useState('direction');
   const [downloads, setDownloads] = useState(false);
   const previousArea = useRef(null);
   const area = data.areas.find(item => item.id === route.areaId) || null;
@@ -33,17 +31,12 @@ export default function Moodbook() {
 
   useEffect(() => {
     document.title = area ? area.title + ' — LEAP 2027 Moodbook' : homeTitle;
-    if (area && previousArea.current !== area.id) { window.scrollTo({ top: 0, behavior: 'instant' }); setInitialTab('direction'); }
+    if (area && route.mood) requestAnimationFrame(() => document.getElementById('inline-mood')?.scrollIntoView({ behavior: 'smooth' }));
+    else if (area && previousArea.current !== area.id) window.scrollTo({ top: 0, behavior: 'instant' });
     else if (!area && ['areas', 'direction', 'concept', 'fairplatz'].includes(route.anchor)) requestAnimationFrame(() => document.getElementById(route.anchor)?.scrollIntoView({ behavior: previousArea.current ? 'instant' : 'smooth' }));
     else if (!area && previousArea.current) window.scrollTo({ top: 0, behavior: 'instant' });
     previousArea.current = area?.id || null;
-  }, [area, route.anchor]);
-
-  const openMood = (tab, navigate = false) => {
-    setInitialTab(tab);
-    if (navigate && area) window.location.hash = areaURL(area) + '/mood';
-  };
-  const closeMood = () => { if (area) window.location.hash = areaURL(area); };
+  }, [area, route.anchor, route.mood]);
 
   return <>
     <a className="skip" href="#areas">Skip to areas</a>
@@ -53,9 +46,8 @@ export default function Moodbook() {
       <AreaGallery areas={data.areas} />
       <Direction /><Closing onDownload={() => setDownloads(true)} />
     </main>
-    <main id="area-page" hidden={!area}>{area && <AreaReference area={area} next={next} onMood={openMood} />}</main>
+    <main id="area-page" hidden={!area}>{area && <AreaReference key={area.id} area={area} next={next} materials={data.materials} sources={data.sources} />}</main>
     <Footer />
-    <MoodDialog area={area} open={route.mood} initialTab={initialTab} materials={data.materials} sources={data.sources} onClose={closeMood} />
     <DownloadDialog open={downloads} onClose={() => setDownloads(false)} />
   </>;
 }

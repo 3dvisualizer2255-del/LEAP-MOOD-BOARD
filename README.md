@@ -2,7 +2,7 @@
 
 FAIRPLATZ · LEAP 2027 Mood Board
 
-An editable Next.js 16 / React 19 project containing the FAIRPLATZ proposal, 22 event-area reference pages, floating mood boards, marked floor plans, material palettes, UAE / Saudi sourcing links and the PDF / editable PowerPoint books.
+An editable Next.js 16 / React 19 project containing the FAIRPLATZ proposal, 22 event-area reference pages, mood and material boards directly below the reference images, marked floor plans, material palettes, UAE / Saudi sourcing links and the PDF / editable PowerPoint books.
 
 ## Open the project
 
@@ -31,7 +31,7 @@ The production build exports the website into `out/`. That folder can be deploye
 | `components/ProposalSections.jsx` | FAIRPLATZ header, proposal cover, company details, main concept, visitor journey and footer |
 | `components/AreaGallery.jsx` | Area cards, category filters and stand-code search |
 | `components/AreaReference.jsx` | Individual reference page |
-| `components/MoodDialog.jsx` | Floating visual board, location schedules, floor-plan pins and material sourcing |
+| `components/AreaLocations.jsx` | Expandable location schedules and marked floor-plan excerpts |
 | `components/DownloadDialog.jsx` | PDF and editable PowerPoint downloads |
 | `components/Moodbook.jsx` | Page composition, area navigation and dialog state |
 | `components/Palette.jsx` | LEAP colours |
