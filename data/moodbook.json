@@ -1,0 +1,2214 @@
+{
+  "areas": [
+    {
+      "title": "Main Stage",
+      "category": "STAGES",
+      "sites": [
+        [
+          "1",
+          "H1.A90",
+          "1,890 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            1490,
+            3570,
+            2050,
+            4250
+          ],
+          "pins": [
+            [
+              "1",
+              1770,
+              3910
+            ]
+          ],
+          "caption": "MAIN STAGE CLUSTER / H1.* ON PLAN",
+          "image": "assets/plan-01-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          1,
+          0
+        ]
+      ],
+      "materials": [
+        [
+          2,
+          "Lightweight scenic frames"
+        ],
+        [
+          14,
+          "Graphic walls / scenic faces"
+        ],
+        [
+          3,
+          "Translucent ceiling diffusers"
+        ],
+        [
+          5,
+          "Auditorium floor finish"
+        ],
+        [
+          13,
+          "Directional ceiling light lines"
+        ]
+      ],
+      "mood": "IMMERSIVE / DIRECTIONAL / MONUMENTAL",
+      "lighting": "Moving light sequences along static ceiling strips; clean white speaker light.",
+      "brief": "Panoramic LED, signature strips, ceiling and side-wall scenery, VIP/audience seating and accessible stage routes.",
+      "note": "The brief calls the hall Hall 1A; the master plan uses stand H1.A90. Coordinate using the stand code.",
+      "source": "Main Stage brief pp.3,14-19",
+      "id": "main-stage",
+      "number": "01",
+      "images": [
+        "assets/reference-1-0.jpg"
+      ]
+    },
+    {
+      "title": "The Full Stack Stage",
+      "category": "STAGES",
+      "sites": [
+        [
+          "1",
+          "H2.S40",
+          "238 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            1660,
+            1020,
+            2100,
+            1450
+          ],
+          "pins": [
+            [
+              "1",
+              1860,
+              1160
+            ]
+          ],
+          "caption": "WEST HALL 2 / LABELLED HALL 2A ON PLAN",
+          "image": "assets/plan-02-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          1,
+          1
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Portal and scenic framework"
+        ],
+        [
+          3,
+          "Layered translucent fins"
+        ],
+        [
+          9,
+          "FSC timber scenic substrate"
+        ],
+        [
+          5,
+          "Stage and seating floor"
+        ],
+        [
+          13,
+          "Integrated accent lighting"
+        ]
+      ],
+      "mood": "LAYERED / PRECISE / OPEN",
+      "lighting": "Soft cyan/pink edges with even screen and speaker lighting.",
+      "brief": "14 x 17 m; one main LED, accessible ramp, podium, six speaker chairs, mixed audience seating and production desks.",
+      "note": "",
+      "source": "Full Stack Stage brief pp.3,14-18",
+      "id": "the-full-stack-stage",
+      "number": "02",
+      "images": [
+        "assets/reference-1-1.jpg"
+      ]
+    },
+    {
+      "title": "Investor & Founder Stage",
+      "category": "STAGES",
+      "sites": [
+        [
+          "1",
+          "H3.H200",
+          "375 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            900,
+            1300,
+            1210,
+            1620
+          ],
+          "pins": [
+            [
+              "1",
+              1040,
+              1435
+            ]
+          ],
+          "caption": "HALL 3 / NORTH-EAST STAGE",
+          "image": "assets/plan-03-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          1,
+          2
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Ground-supported framework"
+        ],
+        [
+          2,
+          "Fine metallic scenic trim"
+        ],
+        [
+          3,
+          "Slim translucent side fins"
+        ],
+        [
+          5,
+          "Stage / audience flooring"
+        ],
+        [
+          13,
+          "Directional portal accents"
+        ]
+      ],
+      "mood": "FOCUSED / PREMIUM / CONNECTED",
+      "lighting": "Clear faces and presentation content; restrained perimeter accents.",
+      "brief": "24 x 15 m; one main LED, raised stage, ramp, lectern, six speaker chairs and mixed seating.",
+      "note": "",
+      "source": "Investor & Founder Stage brief pp.3,13-17",
+      "id": "investor-founder-stage",
+      "number": "03",
+      "images": [
+        "assets/reference-1-2.jpg"
+      ]
+    },
+    {
+      "title": "LEAP Forward Stage",
+      "category": "STAGES",
+      "sites": [
+        [
+          "1",
+          "H3.A30",
+          "330 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            340,
+            3140,
+            720,
+            3490
+          ],
+          "pins": [
+            [
+              "1",
+              470,
+              3330
+            ]
+          ],
+          "caption": "HALL 3 / WEST SIDE",
+          "image": "assets/plan-04-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          1,
+          3
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Ground-supported scenic frames"
+        ],
+        [
+          2,
+          "Linear metallic fascia"
+        ],
+        [
+          3,
+          "Translucent layered planes"
+        ],
+        [
+          5,
+          "Stage and audience flooring"
+        ],
+        [
+          13,
+          "Forward-travel light accents"
+        ]
+      ],
+      "mood": "PROGRESSIVE / LINEAR / INVITING",
+      "lighting": "Ground-supported light profiles; direct speaker wash, subtle cyan/pink.",
+      "brief": "15 x 22 m; one main LED, podium, accessible ramp, mixed audience furniture and production area.",
+      "note": "",
+      "source": "LEAP Forward Stage brief pp.3,14-18",
+      "id": "leap-forward-stage",
+      "number": "04",
+      "images": [
+        "assets/reference-1-3.jpg"
+      ]
+    },
+    {
+      "title": "Rocket Fuel Stage",
+      "category": "STAGES",
+      "sites": [
+        [
+          "1",
+          "H3.A150",
+          "299.18 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            330,
+            1760,
+            750,
+            2110
+          ],
+          "pins": [
+            [
+              "1",
+              470,
+              1940
+            ]
+          ],
+          "caption": "HALL 3 / STARTUP + VC ECOSYSTEM",
+          "image": "assets/plan-05-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          2,
+          0
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Rocket motif / low framework"
+        ],
+        [
+          14,
+          "Competition graphic faces"
+        ],
+        [
+          9,
+          "FSC scenic platform substrate"
+        ],
+        [
+          5,
+          "Panel / pitch stage flooring"
+        ],
+        [
+          13,
+          "Launch-energy perimeter light"
+        ]
+      ],
+      "mood": "ENERGETIC / BOLD / FOUNDER-LED",
+      "lighting": "Founder spotlight, programmable launch-energy lines, no real flame effect.",
+      "brief": "Panel stage and diamond pitch platform, judges desk, hero entrance, check-in, accessible ramp, one main LED and mixed seating.",
+      "note": "",
+      "source": "Rocket Fuel Stage brief pp.3,12-18",
+      "id": "rocket-fuel-stage",
+      "number": "05",
+      "images": [
+        "assets/reference-2-0.jpg"
+      ]
+    },
+    {
+      "title": "Announcement Stages",
+      "category": "STAGES",
+      "sites": [
+        [
+          "1",
+          "H4.A40",
+          "210 m²"
+        ],
+        [
+          "2",
+          "H1A.A10",
+          "180 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            450,
+            4320,
+            780,
+            4660
+          ],
+          "pins": [
+            [
+              "1",
+              600,
+              4480
+            ]
+          ],
+          "caption": "STAGE 1 / HALL 4",
+          "image": "assets/plan-06-0.jpg"
+        },
+        {
+          "box": [
+            2110,
+            4140,
+            2430,
+            4460
+          ],
+          "pins": [
+            [
+              "2",
+              2260,
+              4310
+            ]
+          ],
+          "caption": "STAGE 2 / HALL 1A",
+          "image": "assets/plan-06-1.jpg"
+        }
+      ],
+      "refs": [
+        [
+          2,
+          1
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Modular stage / portal frames"
+        ],
+        [
+          14,
+          "Branded photo backdrop faces"
+        ],
+        [
+          7,
+          "Signing platform surface"
+        ],
+        [
+          5,
+          "Audience flooring"
+        ],
+        [
+          13,
+          "Photogenic scenic accents"
+        ]
+      ],
+      "mood": "CEREMONIAL / CLEAN / CAMERA-READY",
+      "lighting": "Even signing-table and speaker lighting, controlled scenic glow.",
+      "brief": "One modular family for two sizes: 15 x 14 m and 15 x 12 m. Signing table, main screen, podium, ramp and audience seating.",
+      "note": "Same concept reference applies to both locations; resize to each footprint.",
+      "source": "Announcement Stages brief pp.3,12-17",
+      "id": "announcement-stages",
+      "number": "06",
+      "images": [
+        "assets/reference-2-1.jpg"
+      ]
+    },
+    {
+      "title": "Premium Lounges",
+      "category": "LOUNGES",
+      "sites": [
+        [
+          "1",
+          "H2.P30",
+          "135.5 m²"
+        ],
+        [
+          "2",
+          "H3.A80",
+          "375 m²"
+        ],
+        [
+          "3",
+          "H1A.I10",
+          "208 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            2360,
+            1250,
+            2720,
+            1560
+          ],
+          "pins": [
+            [
+              "1",
+              2570,
+              1350
+            ]
+          ],
+          "caption": "LOUNGE 1 / HALL 2",
+          "image": "assets/plan-07-0.jpg"
+        },
+        {
+          "box": [
+            340,
+            2580,
+            720,
+            2960
+          ],
+          "pins": [
+            [
+              "2",
+              470,
+              2780
+            ]
+          ],
+          "caption": "LOUNGE 2 / HALL 3",
+          "image": "assets/plan-07-1.jpg"
+        },
+        {
+          "box": [
+            3020,
+            4160,
+            3330,
+            4460
+          ],
+          "pins": [
+            [
+              "3",
+              3220,
+              4310
+            ]
+          ],
+          "caption": "LOUNGE 3 / HALL 1A",
+          "image": "assets/plan-07-2.jpg"
+        }
+      ],
+      "refs": [
+        [
+          3,
+          0
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Signature entrance portal"
+        ],
+        [
+          3,
+          "Low translucent dividers"
+        ],
+        [
+          6,
+          "Premium sofas and chairs"
+        ],
+        [
+          7,
+          "Selected floor inlays"
+        ],
+        [
+          8,
+          "Coffee bar / service surfaces"
+        ]
+      ],
+      "mood": "REFINED / OPEN / COMFORTABLE",
+      "lighting": "Warm-white seating light with fine cyan/pink edges; avoid many glowing columns.",
+      "brief": "One premium family across three footprints: illuminated portal, mixed seating, networking clusters, lettering, coffee bar and low dividers.",
+      "note": "Graphite carpet remains the main lounge flooring; LVT is a selected premium inlay.",
+      "source": "Premium Lounges brief pp.3,12-16",
+      "id": "premium-lounges",
+      "number": "07",
+      "images": [
+        "assets/reference-3-0.jpg"
+      ]
+    },
+    {
+      "title": "LEAP Lounge",
+      "category": "LOUNGES",
+      "sites": [
+        [
+          "1",
+          "H2.T20",
+          "273 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            1400,
+            1170,
+            1800,
+            1470
+          ],
+          "pins": [
+            [
+              "1",
+              1610,
+              1305
+            ]
+          ],
+          "caption": "HALL 2 / WEST WING",
+          "image": "assets/plan-08-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          3,
+          1
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Illuminated entry frame"
+        ],
+        [
+          3,
+          "Low semi-private dividers"
+        ],
+        [
+          6,
+          "Mixed lounge seating"
+        ],
+        [
+          5,
+          "Dark graphite carpet"
+        ],
+        [
+          8,
+          "Branded coffee bar"
+        ]
+      ],
+      "mood": "SOCIAL / CALM / ACCESSIBLE",
+      "lighting": "Comfortable warm-white light, small cyan/pink perimeter highlights.",
+      "brief": "13 x 21 m open lounge with mixed seating, meeting clusters, LEAP lettering, coffee bar and low acoustic/translucent dividers.",
+      "note": "",
+      "source": "LEAP Lounge brief pp.3,12-13",
+      "id": "leap-lounge",
+      "number": "08",
+      "images": [
+        "assets/reference-3-1.jpg"
+      ]
+    },
+    {
+      "title": "Speakers Lounge",
+      "category": "LOUNGES",
+      "sites": [
+        [
+          "1",
+          "H1.A80",
+          "165 m² / two levels"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            1500,
+            4030,
+            1950,
+            4350
+          ],
+          "pins": [
+            [
+              "1",
+              1660,
+              4152
+            ]
+          ],
+          "caption": "HALL 1 MAIN-STAGE CLUSTER",
+          "image": "assets/plan-09-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          2,
+          2
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Engineered deck / portal frame"
+        ],
+        [
+          4,
+          "Upper-level glass balustrade"
+        ],
+        [
+          6,
+          "Lounge seating on both levels"
+        ],
+        [
+          7,
+          "Luxury vinyl floor finishes"
+        ],
+        [
+          8,
+          "Reception and catering counters"
+        ]
+      ],
+      "mood": "ELEVATED / EXCLUSIVE / WARM",
+      "lighting": "Warm-white hospitality lighting with selective facade LED and LEAP accents.",
+      "brief": "15 x 11 m double-deck lounge; stairs, glass balustrade, registration, LED facade, catering counter, photo wall, screens and planting.",
+      "note": "Concept shows the design language; the double-deck structure needs its own detailed development.",
+      "source": "Speakers Lounge brief pp.3,15-18",
+      "id": "speakers-lounge",
+      "number": "09",
+      "images": [
+        "assets/reference-2-2.jpg"
+      ]
+    },
+    {
+      "title": "Green Rooms",
+      "category": "LOUNGES",
+      "sites": [
+        [
+          "1",
+          "H1.A100",
+          "60 m²"
+        ],
+        [
+          "2",
+          "H4.C10",
+          "18 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            1510,
+            3590,
+            1830,
+            3810
+          ],
+          "pins": [
+            [
+              "1",
+              1640,
+              3710
+            ]
+          ],
+          "caption": "MAIN STAGE GREEN ROOM",
+          "image": "assets/plan-10-0.jpg"
+        },
+        {
+          "box": [
+            600,
+            4800,
+            800,
+            4980
+          ],
+          "pins": [
+            [
+              "2",
+              700,
+              4908
+            ]
+          ],
+          "caption": "SPORTS TECH GREEN ROOM",
+          "image": "assets/plan-10-1.jpg"
+        }
+      ],
+      "refs": [
+        [
+          2,
+          3
+        ]
+      ],
+      "materials": [
+        [
+          5,
+          "Full-room carpet"
+        ],
+        [
+          6,
+          "Comfortable soft seating"
+        ],
+        [
+          8,
+          "Make-up / catering cabinetry"
+        ],
+        [
+          3,
+          "Screened preparation zone"
+        ],
+        [
+          13,
+          "Diffused mirrors / ambient light"
+        ]
+      ],
+      "mood": "PRIVATE / SOFT / COMPOSED",
+      "lighting": "Flattering mirror and task light, calm warm-white ambient light; hidden cables.",
+      "brief": "Enclosed speaker preparation rooms: seating, screened make-up area, mirrors, garment storage, catering counter and stage-feed TVs.",
+      "note": "Image illustrates the 60 m² room. Adapt furniture and quantities to the 18 m² room.",
+      "source": "Green Rooms brief pp.3,15-16",
+      "id": "green-rooms",
+      "number": "10",
+      "images": [
+        "assets/reference-2-3.jpg"
+      ]
+    },
+    {
+      "title": "Investors Lounge + Matchmaking",
+      "category": "LOUNGES",
+      "sites": [
+        [
+          "1",
+          "H3.A200 / Investors",
+          "375 m²"
+        ],
+        [
+          "2",
+          "H3.A180 / Matchmaking",
+          "475 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            330,
+            1290,
+            750,
+            1740
+          ],
+          "pins": [
+            [
+              "1",
+              490,
+              1435
+            ],
+            [
+              "2",
+              490,
+              1600
+            ]
+          ],
+          "caption": "HALL 3 / TWO CONNECTED FEATURES",
+          "image": "assets/plan-11-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Shared digital entry / framing"
+        ],
+        [
+          3,
+          "Movable low curved dividers"
+        ],
+        [
+          6,
+          "Investor / LP soft seating"
+        ],
+        [
+          5,
+          "Lounge and meeting flooring"
+        ],
+        [
+          8,
+          "Meeting / catering worktops"
+        ]
+      ],
+      "mood": "CONFIDENT / CONNECTED / SEMI-PRIVATE",
+      "lighting": "Good face-to-face meeting light, subtle brand accents, quiet LP lounge mood.",
+      "brief": "Shared entry and registration; removable divide, meeting rooms/pods, catering, tables and charging. LP area of about 45 m² is inside Investors Lounge.",
+      "note": "The two footprints total 850 m²; brief header says 580 m². Use the individual labelled areas for review.",
+      "source": "Investors Lounge + Matchmaking brief pp.3,12,15,17,19",
+      "id": "investors-lounge-matchmaking",
+      "number": "11",
+      "images": [
+        "assets/reference-3-2.jpg",
+        "assets/reference-3-3.jpg"
+      ]
+    },
+    {
+      "title": "Private Dining",
+      "category": "LOUNGES",
+      "sites": [
+        [
+          "1",
+          "H2.T30 / Upper Level 1",
+          "442 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            1290,
+            1100,
+            1750,
+            1500
+          ],
+          "pins": [
+            [
+              "1",
+              1490,
+              1300
+            ]
+          ],
+          "caption": "ACCESS LOCATION ONLY / ROOM ABOVE",
+          "image": "assets/plan-12-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          4,
+          2
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Entrance and screening frames"
+        ],
+        [
+          3,
+          "Translucent privacy elements"
+        ],
+        [
+          6,
+          "Premium dining / lounge seats"
+        ],
+        [
+          7,
+          "Selected floor inlays"
+        ],
+        [
+          8,
+          "Coffee and catering counters"
+        ]
+      ],
+      "mood": "HOSPITABLE / SHELTERED / ELEGANT",
+      "lighting": "Warm-white dining and buffet light; discreet cyan/pink detailing.",
+      "brief": "26 x 17 m, 150 seats; brandable sun walls on two sides, portal, mixed furniture, coffee bar and catering counters.",
+      "note": "Plan shows the access position. The upper-level room is not drawn in the supplied master plan; graphite carpet is the main floor finish.",
+      "source": "Private Dining brief pp.3,12-13",
+      "id": "private-dining",
+      "number": "12",
+      "images": [
+        "assets/reference-4-2.jpg"
+      ]
+    },
+    {
+      "title": "Coworking Stations",
+      "category": "WORK + MEDIA",
+      "sites": [
+        [
+          "1",
+          "H1A.A60",
+          "180 m²"
+        ],
+        [
+          "2",
+          "H4.A70",
+          "72 m²"
+        ],
+        [
+          "3",
+          "H2.H50",
+          "4 x 20 m / confirm"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            2140,
+            3770,
+            2420,
+            4080
+          ],
+          "pins": [
+            [
+              "1",
+              2260,
+              3940
+            ]
+          ],
+          "caption": "HALL 1A",
+          "image": "assets/plan-13-0.jpg"
+        },
+        {
+          "box": [
+            460,
+            3960,
+            740,
+            4280
+          ],
+          "pins": [
+            [
+              "2",
+              565,
+              4105
+            ]
+          ],
+          "caption": "HALL 4",
+          "image": "assets/plan-13-1.jpg"
+        },
+        {
+          "box": [
+            3520,
+            1910,
+            3820,
+            2200
+          ],
+          "pins": [
+            [
+              "3",
+              3680,
+              2050
+            ]
+          ],
+          "caption": "HALL 2",
+          "image": "assets/plan-13-2.jpg"
+        }
+      ],
+      "refs": [
+        [
+          4,
+          0
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Entrance / table frameworks"
+        ],
+        [
+          8,
+          "Durable shared worktops"
+        ],
+        [
+          6,
+          "Task seating upholstery"
+        ],
+        [
+          5,
+          "Work-lounge flooring"
+        ],
+        [
+          3,
+          "Pod framing / low partitions"
+        ]
+      ],
+      "mood": "PRODUCTIVE / OPEN / PLUGGED-IN",
+      "lighting": "Good warm-white task light at every work position; subtle LEAP edge detail.",
+      "brief": "Work tables, benches, chairs/stools, sockets/USB, lockers, plants and space/power for organiser-provided meeting pods.",
+      "note": "Three locations are listed. H2.H50 dimensions give 80 m² but the brief says 40 m²; confirm before layout.",
+      "source": "Coworking Stations brief pp.3,13-16",
+      "id": "coworking-stations",
+      "number": "13",
+      "images": [
+        "assets/reference-4-0.jpg"
+      ]
+    },
+    {
+      "title": "Media Hub",
+      "category": "WORK + MEDIA",
+      "sites": [
+        [
+          "1",
+          "H2.A11 / Media Lounge",
+          "128 m²"
+        ],
+        [
+          "2",
+          "H2.A12-A25 / 14 stands",
+          "about 12 m² each"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            4020,
+            2640,
+            4740,
+            3350
+          ],
+          "pins": [
+            [
+              "1",
+              4290,
+              3070
+            ],
+            [
+              "2",
+              4420,
+              2920
+            ]
+          ],
+          "caption": "HALL 2 / MEDIA LOUNGE + INTERVIEW STANDS",
+          "image": "assets/plan-14-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          4,
+          1
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Low stand / portal framework"
+        ],
+        [
+          14,
+          "Clean branded interview faces"
+        ],
+        [
+          5,
+          "Lounge and booth floor"
+        ],
+        [
+          6,
+          "Interview and work chairs"
+        ],
+        [
+          3,
+          "Subtle booth side treatments"
+        ]
+      ],
+      "mood": "CLEAR / PROFESSIONAL / CAMERA-READY",
+      "lighting": "Even neutral interview lighting and practical desk light; minimal coloured spill.",
+      "brief": "Working journalist lounge with desks, power and lighting; 14 interview stands with two chairs, coffee table, magazine rack and backdrop each.",
+      "note": "Respect the 3.5 m ceiling and nearby 2.9 m low zone. Booth area excludes circulation.",
+      "source": "Media Hub brief pp.3,12-14",
+      "id": "media-hub",
+      "number": "14",
+      "images": [
+        "assets/reference-4-1.jpg"
+      ]
+    },
+    {
+      "title": "LEAP Connect",
+      "category": "HOSPITALITY",
+      "sites": [
+        [
+          "1",
+          "H4.H10",
+          "450 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            1000,
+            4710,
+            1320,
+            5030
+          ],
+          "pins": [
+            [
+              "1",
+              1170,
+              4870
+            ]
+          ],
+          "caption": "HALL 4 / SOUTH-EAST CORNER",
+          "image": "assets/plan-15-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          4,
+          3
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Ground-supported scenic frame"
+        ],
+        [
+          3,
+          "Digital-entry / divider detailing"
+        ],
+        [
+          6,
+          "VIP and social lounge furniture"
+        ],
+        [
+          5,
+          "Lounge carpet"
+        ],
+        [
+          8,
+          "Bar / food service counters"
+        ]
+      ],
+      "mood": "ATMOSPHERIC / SOCIAL / IMMERSIVE",
+      "lighting": "Layered warm-white hospitality lighting with a short digital arrival tunnel and LED accents.",
+      "brief": "30 x 15 m; stage with 8 x 3 m LED, digital tunnel, registration, bar, food counters, VIP lounge, DJ/photo booths and back-of-house.",
+      "note": "",
+      "source": "LEAP Connect brief pp.3,6,9-10,13",
+      "id": "leap-connect",
+      "number": "15",
+      "images": [
+        "assets/reference-4-3.jpg"
+      ]
+    },
+    {
+      "title": "Merch Store",
+      "category": "RETAIL",
+      "sites": [
+        [
+          "1",
+          "RA12",
+          "48 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            3650,
+            3020,
+            3970,
+            3340
+          ],
+          "pins": [
+            [
+              "1",
+              3850,
+              3205
+            ]
+          ],
+          "caption": "EAST SIDE / EVENT SUPPORT HUB",
+          "image": "assets/plan-16-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          6,
+          3
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Enclosed store / header frame"
+        ],
+        [
+          4,
+          "Glass-top display counters"
+        ],
+        [
+          8,
+          "Lockable cabinetry / shelving"
+        ],
+        [
+          7,
+          "Durable retail floor"
+        ],
+        [
+          13,
+          "Display and header accents"
+        ]
+      ],
+      "mood": "PRECISE / SECURE / INVITING",
+      "lighting": "Track display lighting and discreet counter/header LEDs.",
+      "brief": "8 x 6 m; four closed sides, front serving counters, merchandise display, bilingual lit header, TV and lockable stock storage.",
+      "note": "",
+      "source": "Merch Store brief pp.3,12-14",
+      "id": "merch-store",
+      "number": "16",
+      "images": [
+        "assets/reference-6-3.jpg"
+      ]
+    },
+    {
+      "title": "Indoor F&B Kiosks",
+      "category": "FOOD + BEVERAGE",
+      "sites": [
+        [
+          "1",
+          "H1A.A90",
+          "180 m²"
+        ],
+        [
+          "2",
+          "H2.Q60",
+          "24 m²"
+        ],
+        [
+          "3",
+          "H2.Q50",
+          "24 m²"
+        ],
+        [
+          "4",
+          "H2.N50",
+          "72 m²"
+        ],
+        [
+          "5",
+          "H2.N60",
+          "24 m²"
+        ],
+        [
+          "6",
+          "H2.I50",
+          "75 m²"
+        ],
+        [
+          "7",
+          "H2.C40",
+          "30 m²"
+        ],
+        [
+          "8",
+          "H2.C50",
+          "64 m²"
+        ],
+        [
+          "9",
+          "H3.D160",
+          "47 m²"
+        ],
+        [
+          "10",
+          "H3.G160",
+          "47 m²"
+        ],
+        [
+          "11",
+          "H4.A80",
+          "96 m²"
+        ],
+        [
+          "12",
+          "H4.D80",
+          "60 m²"
+        ],
+        [
+          "13",
+          "H4.H80",
+          "72 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            270,
+            780,
+            4720,
+            5130
+          ],
+          "pins": [
+            [
+              "1",
+              2260,
+              3690
+            ],
+            [
+              "2/3",
+              2390,
+              1040
+            ],
+            [
+              "4/5",
+              3120,
+              1490
+            ],
+            [
+              "6",
+              3495,
+              1850
+            ],
+            [
+              "7/8",
+              4230,
+              2510
+            ],
+            [
+              "9/10",
+              790,
+              1782
+            ],
+            [
+              "11-13",
+              920,
+              4020
+            ]
+          ],
+          "caption": "VENUE-WIDE / NEARBY KIOSKS GROUPED AS PINS",
+          "image": "assets/plan-17-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          6,
+          0
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Modular counter / backwall frame"
+        ],
+        [
+          8,
+          "Service and storage surfaces"
+        ],
+        [
+          7,
+          "Durable kiosk flooring"
+        ],
+        [
+          13,
+          "Illuminated counter / fascia"
+        ],
+        [
+          14,
+          "LEAP backwall graphics"
+        ]
+      ],
+      "mood": "MODULAR / VISIBLE / SOCIAL",
+      "lighting": "Clear menu/food lighting, illuminated counter fronts and vertical light lines.",
+      "brief": "One kiosk family scaled to 13 locations, with branded service counters, storage, backwalls, digital menus, clear queues and seating.",
+      "note": "Listed footprints total 915 m²; the brief header says 815 m². Food operations/equipment are by others.",
+      "source": "Shared F&B brief pp.3-5,15",
+      "id": "indoor-f-b-kiosks",
+      "number": "17",
+      "images": [
+        "assets/reference-6-0.jpg"
+      ]
+    },
+    {
+      "title": "Food Festival + Outdoor F&B",
+      "category": "FOOD + BEVERAGE",
+      "sites": [
+        [
+          "1",
+          "C.A10 / Truck Plaza",
+          "~12,000 m² in brief"
+        ],
+        [
+          "2",
+          "C.A20 / Seating Plaza",
+          "7,200 m² from plan*"
+        ],
+        [
+          "3",
+          "C.F30 / 2 kiosks",
+          "90 m²"
+        ],
+        [
+          "4",
+          "C.F40 / 3 kiosks",
+          "130 m²"
+        ],
+        [
+          "5",
+          "C.F50 / 2 kiosks",
+          "90 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            1280,
+            1570,
+            2750,
+            3590
+          ],
+          "pins": [
+            [
+              "1",
+              1920,
+              2920
+            ],
+            [
+              "2",
+              1790,
+              1880
+            ]
+          ],
+          "caption": "CENTRAL FOOD FESTIVAL PLAZAS",
+          "image": "assets/plan-18-0.jpg"
+        },
+        {
+          "box": [
+            3390,
+            2730,
+            3700,
+            3280
+          ],
+          "pins": [
+            [
+              "3",
+              3490,
+              2990
+            ],
+            [
+              "4",
+              3490,
+              3110
+            ],
+            [
+              "5",
+              3490,
+              3210
+            ]
+          ],
+          "caption": "OUTDOOR KIOSKS / TAHAKOM TUNNEL",
+          "image": "assets/plan-18-1.jpg"
+        }
+      ],
+      "refs": [
+        [
+          6,
+          1
+        ],
+        [
+          6,
+          2
+        ]
+      ],
+      "materials": [
+        [
+          10,
+          "Shade canopies with misting"
+        ],
+        [
+          11,
+          "Weather-resistant seating"
+        ],
+        [
+          12,
+          "Slip-resistant modular floor"
+        ],
+        [
+          1,
+          "Kiosk / furniture framing"
+        ],
+        [
+          16,
+          "Planting and zone edges"
+        ]
+      ],
+      "mood": "SHADED / SOCIABLE / WEATHER-READY",
+      "lighting": "Warm evening light, subtle brand details; shade and misting over queues, seating and kiosks.",
+      "brief": "17 food-truck bays, 7 outdoor kiosks, dining/chill/game zones, entrance arches, photo landmark, planting and wayfinding.",
+      "note": "*C.A20 measures 120 x 60 m on plan (= 7,200 m²); the brief says 17,000 m². Confirm both plaza extents before detailed design.",
+      "source": "Food Festival + Outdoor F&B brief pp.3,13-16",
+      "id": "food-festival-outdoor-f-b",
+      "number": "18",
+      "images": [
+        "assets/reference-6-1.jpg",
+        "assets/reference-6-2.jpg"
+      ]
+    },
+    {
+      "title": "Future Mobility Zone",
+      "category": "ACTIVATIONS",
+      "sites": [
+        [
+          "1",
+          "H3.A10",
+          "432 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            330,
+            3370,
+            750,
+            3780
+          ],
+          "pins": [
+            [
+              "1",
+              470,
+              3580
+            ]
+          ],
+          "caption": "HALL 3 / SOUTH-WEST END",
+          "image": "assets/plan-19-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          5,
+          0
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Ring-canopy / pod framework"
+        ],
+        [
+          2,
+          "Metallic platform / fascia trim"
+        ],
+        [
+          7,
+          "Pod and circulation floor"
+        ],
+        [
+          3,
+          "Curved lightbox diffuser option"
+        ],
+        [
+          13,
+          "Ring and plinth edge light"
+        ]
+      ],
+      "mood": "FUTURE-FOCUSED / MODULAR / PRECISE",
+      "lighting": "Vehicle feature lighting, luminous ring canopies and low-glare platform edges.",
+      "brief": "16 x 27 m; six circular pods in three pairs, light-ring canopies, curved LED/lightbox backdrops, entrance arch, desk and vehicle access.",
+      "note": "Pod IDs H5.A20-A25 are used inside zone H3.A10 in the client brief.",
+      "source": "Future Mobility Zone brief pp.3,13-16",
+      "id": "future-mobility-zone",
+      "number": "19",
+      "images": [
+        "assets/reference-5-0.jpg"
+      ]
+    },
+    {
+      "title": "Open Vista",
+      "category": "ACTIVATIONS",
+      "sites": [
+        [
+          "1",
+          "H1.C10",
+          "390 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            1680,
+            4580,
+            2050,
+            5030
+          ],
+          "pins": [
+            [
+              "1",
+              1880,
+              4820
+            ]
+          ],
+          "caption": "HALL 1 / NEXT TO VIP-MAJLIS",
+          "image": "assets/plan-20-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          5,
+          1
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Concealed sculpture support"
+        ],
+        [
+          2,
+          "Sculptural metallic detailing"
+        ],
+        [
+          3,
+          "Ascending translucent ribbons"
+        ],
+        [
+          7,
+          "Selected feature-floor inlay"
+        ],
+        [
+          13,
+          "Integrated landmark lighting"
+        ]
+      ],
+      "mood": "SCULPTURAL / OPEN / MEMORABLE",
+      "lighting": "Soft internal sculpture light with cyan/pink gradients and calm seating light.",
+      "brief": "15 x 26 m; original central landmark, open seating clusters, planting, charging, photo space and LEAP floor graphics.",
+      "note": "An original 2027 concept: do not reproduce the 2025 tree or the 2026 numeral 5. Carpet remains the principal area finish.",
+      "source": "Open Vista brief pp.3,7,14",
+      "id": "open-vista",
+      "number": "20",
+      "images": [
+        "assets/reference-5-1.jpg"
+      ]
+    },
+    {
+      "title": "Hall 3 Seating + Photo Areas",
+      "category": "ACTIVATIONS",
+      "sites": [
+        [
+          "1",
+          "H3.D150",
+          "47 m²"
+        ],
+        [
+          "2",
+          "H3.G150",
+          "47 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            570,
+            1680,
+            1010,
+            1950
+          ],
+          "pins": [
+            [
+              "1",
+              656,
+              1862
+            ],
+            [
+              "2",
+              918,
+              1862
+            ]
+          ],
+          "caption": "HALL 3 / MATCHING CORNERS ACROSS THE AISLE",
+          "image": "assets/plan-21-0.jpg"
+        }
+      ],
+      "refs": [
+        [
+          5,
+          2
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Stable 3D letter construction"
+        ],
+        [
+          6,
+          "Soft lounge furniture"
+        ],
+        [
+          5,
+          "Carpet and photo-marker base"
+        ],
+        [
+          13,
+          "Logo and furniture accents"
+        ],
+        [
+          16,
+          "Planters / soft edges"
+        ]
+      ],
+      "mood": "RESTFUL / PHOTOGENIC / OPEN",
+      "lighting": "Lit LEAP letters, restrained furniture accents and comfortable ambient light.",
+      "brief": "Two triangular/curved-edge seating corners; soft seating, one lit 3D LEAP logo each, photo markers, removable floor graphics, charging and planting.",
+      "note": "",
+      "source": "Hall 3 Seating Areas brief pp.3,11-14",
+      "id": "hall-3-seating-photo-areas",
+      "number": "21",
+      "images": [
+        "assets/reference-5-2.jpg"
+      ]
+    },
+    {
+      "title": "Tunnels",
+      "category": "ACTIVATIONS",
+      "sites": [
+        [
+          "T1",
+          "Hall 1A to Hall 4",
+          "~185 m²"
+        ],
+        [
+          "T2",
+          "Hall 4 to Hall 1A",
+          "~175 m²"
+        ],
+        [
+          "T3",
+          "Hall 3 to Hall 4",
+          "~200 m²"
+        ],
+        [
+          "T4",
+          "Hall 4 to Hall 3",
+          "~328 m²"
+        ],
+        [
+          "A13",
+          "Gate A-13 / 15 x 25 m",
+          "375 m²"
+        ]
+      ],
+      "maps": [
+        {
+          "box": [
+            690,
+            3610,
+            2030,
+            4740
+          ],
+          "pins": [
+            [
+              "T1",
+              1460,
+              4680
+            ],
+            [
+              "T2",
+              1460,
+              4290
+            ],
+            [
+              "T3",
+              1080,
+              3855
+            ],
+            [
+              "T4",
+              870,
+              3855
+            ]
+          ],
+          "caption": "FOUR HALL LINKS / FOLLOW FLOW ARROWS",
+          "image": "assets/plan-22-0.jpg"
+        },
+        {
+          "box": [
+            2490,
+            4330,
+            2910,
+            4690
+          ],
+          "pins": [
+            [
+              "A13",
+              2670,
+              4520
+            ]
+          ],
+          "caption": "GATE A-13 / TWO-WAY ENTRANCE",
+          "image": "assets/plan-22-1.jpg"
+        }
+      ],
+      "refs": [
+        [
+          5,
+          3
+        ]
+      ],
+      "materials": [
+        [
+          1,
+          "Portal / light-frame system"
+        ],
+        [
+          14,
+          "Official key-visual wall fabric"
+        ],
+        [
+          5,
+          "Corridor flooring"
+        ],
+        [
+          3,
+          "Diffusers / translucent layers"
+        ],
+        [
+          13,
+          "Soft flicker-free light portals"
+        ]
+      ],
+      "mood": "IMMERSIVE / DIRECTIONAL / CALM",
+      "lighting": "Diffused dimmable portals, smooth transitions from hall light levels, no eye-level glare.",
+      "brief": "Five treatments: four hall links plus Gate A-13. Brand walls/headers, floors, ceiling elements and directional signs; doors/exits remain clear.",
+      "note": "Hall-link sizes are approximate from the brief: T1 5 x 37 m; T2 5 x 35 m; T3 5 x 40 m; T4 8 x 41 m.",
+      "source": "Tunnels brief pp.3,13-18",
+      "id": "tunnels",
+      "number": "22",
+      "images": [
+        "assets/reference-5-3.jpg"
+      ]
+    }
+  ],
+  "sources": [
+    [
+      "S01",
+      "Gulf Extrusions UAE",
+      "Extrusion, anodizing and powder coating in Dubai",
+      "https://gulfex.com/"
+    ],
+    [
+      "S02",
+      "ALUPCO Saudi Arabia",
+      "Aluminium profile supply and GCC operations",
+      "https://alupco.com/region/gcc/"
+    ],
+    [
+      "S03",
+      "Sabin Plastic UAE",
+      "Acrylic, polycarbonate and display-sheet catalogue",
+      "https://www.sabinplastic.com/wp-content/uploads/2025/10/SABIN-PLASTI_GROUP.pdf"
+    ],
+    [
+      "S04",
+      "Sabin Plastic KSA",
+      "Sheets and rolls supplied across Saudi Arabia",
+      "https://www.sabinplastic.com/ksa/trading/"
+    ],
+    [
+      "S05",
+      "Guardian Glass supplier network",
+      "UAE and Saudi fabricators with tempering and lamination capabilities",
+      "https://www.guardianglass.com/me/en/our-glass/find-a-guardian-glass-supplier"
+    ],
+    [
+      "S06",
+      "Al Samiah Furniture UAE",
+      "Carpets and flooring for events, serving UAE and Saudi clients",
+      "https://alsamiah.com/"
+    ],
+    [
+      "S07",
+      "Sedar UAE",
+      "Upholstery fabrics and upholstery services",
+      "https://www.sedarglobal.com/uae-en/tools-and-guides"
+    ],
+    [
+      "S08",
+      "Sedar KSA",
+      "Saudi upholstery-fabric collection",
+      "https://sedarglobal.com/ksa-en"
+    ],
+    [
+      "S09",
+      "Gerflor Middle East",
+      "Saudi manufacturing and UAE/Saudi sales coverage",
+      "https://www.gerflorme.com/node/87221"
+    ],
+    [
+      "S10",
+      "Protect Middle East UAE",
+      "Gerflor LVT and vinyl-flooring supply",
+      "https://www.protectmiddleeast.com/flooring"
+    ],
+    [
+      "S11",
+      "Danube Building Materials UAE",
+      "Plywood, MDF, laminates, acrylic and flooring ranges",
+      "https://danubebuildingmaterials.com/"
+    ],
+    [
+      "S12",
+      "Danube Building Materials Riyadh",
+      "Saudi branch of the building-material supplier",
+      "https://danubeholding.com/places/2933/"
+    ],
+    [
+      "S13",
+      "Sioen / Sioline regional team",
+      "UAE and Saudi contacts for architectural technical fabrics",
+      "https://sioline.com/en/contact"
+    ],
+    [
+      "S14",
+      "Obeikan Technical Fabrics KSA",
+      "Technical-fabric manufacture in Riyadh",
+      "https://obeikanfabrics.com/the-company/"
+    ],
+    [
+      "S15",
+      "Adams Furniture UAE",
+      "Outdoor performance fabric and cushion manufacture",
+      "https://www.adamsinternational.ae/post/outdoor-fabrics-dubai"
+    ],
+    [
+      "S16",
+      "Aljuraid Group KSA",
+      "Outdoor furniture with waterproof fabric cushions",
+      "https://aljuraidgroup.com/products/lounge-and-sofa/reva/"
+    ],
+    [
+      "S17",
+      "RAK Ceramics UAE",
+      "Outdoor porcelain tile and paving ranges",
+      "https://www.rakceramics.com/uae/en/tiles-floors-coverings/outdoor-porcelain-tiles/"
+    ],
+    [
+      "S18",
+      "RAK Ceramics Saudi store",
+      "Saudi outdoor ceramic and porcelain range",
+      "https://onlineshop.rakceramics.com/sa/ara/outdoor.html"
+    ],
+    [
+      "S19",
+      "LEDFlex Dubai",
+      "Regional facility and GCC supply support",
+      "https://ledflexgroup.com/press-media/news/v/?url=enhancing_our_support_within_the_gcc_region"
+    ],
+    [
+      "S20",
+      "LEDFlex lighting ranges",
+      "Diffused linear, RGB/RGBW and pixel-light options",
+      "https://ledflexgroup.com/product/neon-flex/"
+    ],
+    [
+      "S21",
+      "LEDFlex Saudi project supply",
+      "Published Riyadh installation evidence",
+      "https://ledflexgroup.com/projects/v/?url=bain-and-company"
+    ],
+    [
+      "S22",
+      "CSiX UAE",
+      "Fabric media and large-format print substrates",
+      "https://csixgt.com/"
+    ],
+    [
+      "S23",
+      "Desert Sign KSA",
+      "Textile printing materials and signage media",
+      "https://desertsign.com.sa/"
+    ],
+    [
+      "S24",
+      "Desert Group UAE",
+      "Local nursery and planting divisions",
+      "https://desertgroup.ae/"
+    ],
+    [
+      "S25",
+      "Desert Views KSA",
+      "Nursery and planting supply in Saudi Arabia",
+      "https://desertviews.sa/nursery/"
+    ]
+  ],
+  "materials": [
+    {
+      "id": 1,
+      "name": "BLACK POWDER-COATED ALUMINIUM",
+      "spec": "Reusable aluminium profiles / fabricated faces in matte charcoal. Match the LEAP black finish sample.",
+      "uae": "Gulf Extrusions + local fabricator [S01]",
+      "ksa": "ALUPCO + local fabricator [S02]",
+      "short": "UAE GulfEx / KSA ALUPCO [S01-02]",
+      "refs": [
+        "S01",
+        "S02"
+      ],
+      "image": "assets/material-01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "BRUSHED / ANODIZED ALUMINIUM",
+      "spec": "Silver brushed-look or anodized trim and scenic profiles. Confirm the finish sample and forming method.",
+      "uae": "Gulf Extrusions / fabricator [S01]",
+      "ksa": "ALUPCO / fabricator [S02]",
+      "short": "UAE GulfEx / KSA ALUPCO [S01-02]",
+      "refs": [
+        "S01",
+        "S02"
+      ],
+      "image": "assets/material-02.jpg"
+    },
+    {
+      "id": 3,
+      "name": "TRANSLUCENT POLYCARBONATE",
+      "spec": "Opal, frosted or textured sheet. Use a stocked flat-sheet grade if the ribbed look needs a custom lead time.",
+      "uae": "Sabin Plastic UAE [S03]",
+      "ksa": "Sabin Plastic KSA [S04]",
+      "short": "UAE + KSA Sabin Plastic [S03-04]",
+      "refs": [
+        "S03",
+        "S04"
+      ],
+      "image": "assets/material-03.jpg"
+    },
+    {
+      "id": 4,
+      "name": "PROCESSED SAFETY GLASS",
+      "spec": "Local tempered / laminated fabrication. Balustrade grade, thickness and fixings are application-specific.",
+      "uae": "Guardian-listed fabricators [S05]",
+      "ksa": "Guardian-listed fabricators [S05]",
+      "short": "UAE + KSA local glass fabricators [S05]",
+      "refs": [
+        "S05"
+      ],
+      "image": "assets/material-04.jpg"
+    },
+    {
+      "id": 5,
+      "name": "GRAPHITE EVENT CARPET",
+      "spec": "Charcoal exhibition roll carpet or reusable contract carpet. Request the organiser-required fire documentation.",
+      "uae": "Al Samiah stockist [S06]",
+      "ksa": "Al Samiah regional supply [S06]",
+      "short": "UAE stockist / KSA supply Al Samiah [S06]",
+      "refs": [
+        "S06"
+      ],
+      "image": "assets/material-05.jpg"
+    },
+    {
+      "id": 6,
+      "name": "CONTRACT UPHOLSTERY FABRIC",
+      "spec": "Grey woven upholstery from the local range. Confirm wear performance and the required fire specification.",
+      "uae": "Sedar UAE [S07]",
+      "ksa": "Sedar KSA [S08]",
+      "short": "UAE + KSA Sedar [S07-08]",
+      "refs": [
+        "S07",
+        "S08"
+      ],
+      "image": "assets/material-06.jpg"
+    },
+    {
+      "id": 7,
+      "name": "CHARCOAL LVT / VINYL",
+      "spec": "Commercial interior LVT or sheet vinyl in a charcoal stone-look finish. Select the exact stocked range locally.",
+      "uae": "Protect Middle East / Gerflor [S09-10]",
+      "ksa": "Gerflor Middle East [S09]",
+      "short": "UAE + KSA Gerflor network [S09-10]",
+      "refs": [
+        "S09",
+        "S10"
+      ],
+      "image": "assets/material-07.jpg"
+    },
+    {
+      "id": 8,
+      "name": "HPL-FACED JOINERY",
+      "spec": "Charcoal HPL on an appropriate joinery substrate. Replaces a generic compact-laminate assumption with a locally supplied laminate finish.",
+      "uae": "Danube Building Materials [S11]",
+      "ksa": "Danube Riyadh [S12]",
+      "short": "UAE + KSA Danube [S11-12]",
+      "refs": [
+        "S11",
+        "S12"
+      ],
+      "image": "assets/material-08.jpg"
+    },
+    {
+      "id": 9,
+      "name": "FSC PLYWOOD / SCENIC BOARD",
+      "spec": "Request FSC-certified timber/plywood and the required fire-rated or treated assembly. Specific certified batches remain an RFQ item.",
+      "uae": "Danube timber / board enquiry [S11]",
+      "ksa": "Danube Riyadh enquiry [S12]",
+      "short": "UAE + KSA Danube RFQ [S11-12]",
+      "refs": [
+        "S11",
+        "S12"
+      ],
+      "image": "assets/material-09.jpg"
+    },
+    {
+      "id": 10,
+      "name": "ARCHITECTURAL SHADE MEMBRANE",
+      "spec": "Locally supplied coated technical shade fabric. Confirm canopy grade, colour and structural fabrication with the fabric supplier.",
+      "uae": "Sioen / Sioline regional team [S13]",
+      "ksa": "Obeikan Technical Fabrics [S14]",
+      "short": "UAE Sioen / KSA Obeikan [S13-14]",
+      "refs": [
+        "S13",
+        "S14"
+      ],
+      "image": "assets/material-10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "OUTDOOR FABRIC + CUSHIONS",
+      "spec": "Weather-resistant contract upholstery or complete outdoor cushions. Saudi source verifies a furniture/cushion route, not bulk fabric meterage.",
+      "uae": "Adams outdoor fabric / cushions [S15]",
+      "ksa": "Aljuraid outdoor cushion route [S16]",
+      "short": "UAE Adams / KSA Aljuraid [S15-16]",
+      "refs": [
+        "S15",
+        "S16"
+      ],
+      "image": "assets/material-11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "OUTDOOR PORCELAIN PAVING",
+      "spec": "Dark textured exterior porcelain or pavers. Check slip grade and temporary-installation build-up before selection.",
+      "uae": "RAK Ceramics UAE [S17]",
+      "ksa": "RAK Ceramics Saudi [S18]",
+      "short": "UAE + KSA RAK Ceramics [S17-18]",
+      "refs": [
+        "S17",
+        "S18"
+      ],
+      "image": "assets/material-12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "DIFFUSED LINEAR LED",
+      "spec": "Opal diffused linear profiles / neon flex. Select RGBW or pixel systems where programmed LEAP accents are needed.",
+      "uae": "LEDFlex Dubai [S19-20]",
+      "ksa": "LEDFlex regional project supply [S20-21]",
+      "short": "UAE + KSA LEDFlex supply [S19-21]",
+      "refs": [
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "image": "assets/material-13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "PRINTABLE FABRIC / MEDIA",
+      "spec": "Local polyester print media with official LEAP artwork. The exact fabric fire certificate and print finish need confirmation.",
+      "uae": "CSiX fabric media [S22]",
+      "ksa": "Desert Sign textile media [S23]",
+      "short": "UAE CSiX / KSA Desert Sign [S22-23]",
+      "refs": [
+        "S22",
+        "S23"
+      ],
+      "image": "assets/material-14.jpg"
+    },
+    {
+      "id": 16,
+      "name": "LOCAL PLANTING + PLANTERS",
+      "spec": "Locally sourced planting with fabricated powder-coated planters. Choose species for indoor light or outdoor exposure as appropriate.",
+      "uae": "Desert Group nursery network [S24]",
+      "ksa": "Desert Views nursery [S25]",
+      "short": "UAE Desert Group / KSA Desert Views [S24-25]",
+      "refs": [
+        "S24",
+        "S25"
+      ],
+      "image": "assets/material-16.jpg"
+    }
+  ]
+}
