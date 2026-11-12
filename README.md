@@ -24,6 +24,8 @@ npx pnpm@11.25.0 start
 
 The production build exports the website into `out/`. That folder can be deployed to a static website host. `start` serves the built `out/` folder locally on port 3000; set `PORT` to choose another port. The website uses browser hash links for area views, so static hosting needs no routing rules or backend.
 
+For Vercel, keep the Next.js framework preset and the `.next` output directory in `vercel.json`. Vercel reads the build manifests from `.next` and handles the static export automatically; pointing its Next.js builder at `out` causes a missing `routes-manifest.json` error.
+
 ## Edit the design
 
 | File | Content |
